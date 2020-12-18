@@ -12,3 +12,5 @@ think I shouldn't add comments (which is wrong).
 
 I will probably go back and either add a comment at the top describing the purpose
 of each program, or give each program the full comment treatment if im not lazy.
+
+Until then have fun guessing what each program is for...
