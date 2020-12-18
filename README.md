@@ -1,7 +1,7 @@
 # CSC211
 Work done for CSC211 at URI
 
-Each assignment has its own folder, I upload my work at the end of the day
+Each assignment has its own folder
 
 This repository will remain private until the semester is over
 
