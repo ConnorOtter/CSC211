@@ -1,5 +1,5 @@
 # CSC211
-Work done for CSC211 at URI
+Work done for CSC211 at University of Rhode Island
 
 Each assignment has its own folder
 
